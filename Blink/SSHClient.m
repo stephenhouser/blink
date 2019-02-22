@@ -42,6 +42,7 @@
 #import <poll.h>
 #include <sys/ioctl.h>
 #include <libssh/callbacks.h>
+#include <libssh/libssh.h>
 #import <sys/socket.h>
 #import <sys/un.h>
 #import <arpa/inet.h>
